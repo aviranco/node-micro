@@ -1,0 +1,27 @@
+{
+  "name": "micro-node",
+  "version": "1.0.0",
+  "description": "Micro service library for nodejs on top of expressjs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviranco/micro-node.git"
+  },
+  "keywords": [
+    "micro-services",
+    "micro",
+    "expressjs"
+  ],
+  "author": "Aviran Cohen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aviranco/micro-node/issues"
+  },
+  "homepage": "https://github.com/aviranco/micro-node#readme"
+}
